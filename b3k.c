@@ -1,7 +1,7 @@
 #include <string.h>
 #include <stdio.h>
 
-/*Test_git_commit
+/*Test_git_commit_V2
 /* Pictures of zero, largest positive and largest negative numbers. */
 static const char *pat = "┌───┐\n"
                          "│   │\n"
